@@ -1,1 +1,1 @@
-select * from banu and join teja
+select * from banu and join teja and naga 
