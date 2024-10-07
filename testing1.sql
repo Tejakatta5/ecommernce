@@ -1,1 +1,1 @@
-select * from testing1
+select * from testing1 and good 
